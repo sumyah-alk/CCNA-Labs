@@ -7,11 +7,11 @@ Lab Description:
 - Tested connectivity using ping command
 
 Commands used :
--show commands 
--show ip interface brief
--Enable
--configure terminal
--no shutdown
--ip route  192.168.2.0 255.255.255.0 1.0.0.2
--show ip route 
--Tracert
+- show commands 
+- show ip interface brief
+- Enable
+- configure terminal
+- no shutdown
+- ip route  192.168.2.0 255.255.255.0 1.0.0.2
+- show ip route 
+- Tracert
